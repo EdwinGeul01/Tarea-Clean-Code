@@ -92,7 +92,7 @@ class MainClass
 {
 
 
-    int ASDASD = 2022;
+
 
   
 
