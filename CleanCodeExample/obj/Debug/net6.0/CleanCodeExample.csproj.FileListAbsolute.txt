@@ -1,0 +1,15 @@
+C:\Users\Edwin Geul\Documents\Universidad\Ing de Software 2\s2\Clean Code Tarea\zombie\CleanCodeExample\CleanCodeExample\bin\Debug\net6.0\CleanCodeExample.exe
+C:\Users\Edwin Geul\Documents\Universidad\Ing de Software 2\s2\Clean Code Tarea\zombie\CleanCodeExample\CleanCodeExample\bin\Debug\net6.0\CleanCodeExample.deps.json
+C:\Users\Edwin Geul\Documents\Universidad\Ing de Software 2\s2\Clean Code Tarea\zombie\CleanCodeExample\CleanCodeExample\bin\Debug\net6.0\CleanCodeExample.runtimeconfig.json
+C:\Users\Edwin Geul\Documents\Universidad\Ing de Software 2\s2\Clean Code Tarea\zombie\CleanCodeExample\CleanCodeExample\bin\Debug\net6.0\CleanCodeExample.dll
+C:\Users\Edwin Geul\Documents\Universidad\Ing de Software 2\s2\Clean Code Tarea\zombie\CleanCodeExample\CleanCodeExample\bin\Debug\net6.0\CleanCodeExample.pdb
+C:\Users\Edwin Geul\Documents\Universidad\Ing de Software 2\s2\Clean Code Tarea\zombie\CleanCodeExample\CleanCodeExample\obj\Debug\net6.0\CleanCodeExample.csproj.AssemblyReference.cache
+C:\Users\Edwin Geul\Documents\Universidad\Ing de Software 2\s2\Clean Code Tarea\zombie\CleanCodeExample\CleanCodeExample\obj\Debug\net6.0\CleanCodeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edwin Geul\Documents\Universidad\Ing de Software 2\s2\Clean Code Tarea\zombie\CleanCodeExample\CleanCodeExample\obj\Debug\net6.0\CleanCodeExample.AssemblyInfoInputs.cache
+C:\Users\Edwin Geul\Documents\Universidad\Ing de Software 2\s2\Clean Code Tarea\zombie\CleanCodeExample\CleanCodeExample\obj\Debug\net6.0\CleanCodeExample.AssemblyInfo.cs
+C:\Users\Edwin Geul\Documents\Universidad\Ing de Software 2\s2\Clean Code Tarea\zombie\CleanCodeExample\CleanCodeExample\obj\Debug\net6.0\CleanCodeExample.csproj.CoreCompileInputs.cache
+C:\Users\Edwin Geul\Documents\Universidad\Ing de Software 2\s2\Clean Code Tarea\zombie\CleanCodeExample\CleanCodeExample\obj\Debug\net6.0\CleanCodeExample.dll
+C:\Users\Edwin Geul\Documents\Universidad\Ing de Software 2\s2\Clean Code Tarea\zombie\CleanCodeExample\CleanCodeExample\obj\Debug\net6.0\refint\CleanCodeExample.dll
+C:\Users\Edwin Geul\Documents\Universidad\Ing de Software 2\s2\Clean Code Tarea\zombie\CleanCodeExample\CleanCodeExample\obj\Debug\net6.0\CleanCodeExample.pdb
+C:\Users\Edwin Geul\Documents\Universidad\Ing de Software 2\s2\Clean Code Tarea\zombie\CleanCodeExample\CleanCodeExample\obj\Debug\net6.0\CleanCodeExample.genruntimeconfig.cache
+C:\Users\Edwin Geul\Documents\Universidad\Ing de Software 2\s2\Clean Code Tarea\zombie\CleanCodeExample\CleanCodeExample\obj\Debug\net6.0\ref\CleanCodeExample.dll
