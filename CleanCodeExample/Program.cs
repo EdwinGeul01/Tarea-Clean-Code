@@ -11,55 +11,6 @@ class CalculoDePago
 
     // Private Functions
 
-    //zombie
-    private double GetImpuestoPorcentajeFijo()
-    {
-        double Impuesto = 0;
-
-        foreach (var mon in PrecioDeProductos)
-        {
-            Impuesto += mon;
-        }
-
-        Impuesto *= 0.15;
-
-        return Impuesto;
-    }
-
-
-    //Mal nombrada
-    private double GetImp(double PorImp)
-    {
-        double PorImpt = PorImp / 100; // porcentaje de impuesto
-        double Imp = 0; // Impuesto
-
-        foreach (var precioProducto in PrecioDeProductos) // ciclo por cada precio de producto
-        {
-            Imp += precioProducto;
-        }
-
-        Imp *= PorImp;
-        return Imp;
-    }
-
-
-
-    //Desinformacion
-    private double GetMordida(double imp)
-    {
-        double NumericoImpuestoGobierno = imp / 100; // porcentaje de impuesto
-        double Goku = 0; // Impuesto
-
-        foreach (var precioProducto in PrecioDeProductos) // ciclo por cada precio de producto
-        {
-            Goku += precioProducto;
-        }
-
-        Goku *= NumericoImpuestoGobierno;
-        return Goku;
-    }
-
-
     private double GetImpuesto(double PorcentajeImpuesto)
     {
         
